@@ -1,0 +1,7 @@
+{
+  "parent": "colored_campfire:item/colored_campfire",
+  "textures": {
+    "fire": "colored_campfire:block/colored_campfire_fire",
+    "lit_log": "colored_campfire:block/colored_campfire_log_lit"
+  }
+}

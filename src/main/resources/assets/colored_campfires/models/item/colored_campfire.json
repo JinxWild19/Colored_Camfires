@@ -1,0 +1,6 @@
+{
+  "parent": "colored_campfire:item/generated",
+  "textures": {
+    "layer0": "colored_campfire:item/colored_campfire"
+  }
+}
